@@ -51,6 +51,16 @@ ul.nav li a {
   margin: 50px 0 75px 0;
 }
 
+#intropic {
+  margin: 60px 0 0 12px;
+  border: 8px solid #FAF3BC;
+}
+
+#pic2 {
+  border: 8px solid #FAF3BC;
+  margin: 60px 0 0 0;
+  float: right;
+}
 #new-cupcakes img {
   border: 8px solid #FAF3BC;
   margin: 0 0 20px 0;
@@ -58,6 +68,8 @@ ul.nav li a {
 
 #featured-cupcake img {
   border: 8px solid #FAF3BC;
+  float: left;
+  width: 405px;
 }
 
 #copyright {
